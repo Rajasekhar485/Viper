@@ -1,4 +1,5 @@
 # Viper
+
 We used the tools like Burp Suit,PDB,Nmap,Netca
 **BurpSuit**:
 A powerful cybersecurity tool for evaluating the security of online applications is called Burp Suite. It has a scanner for automated vulnerability discovery, a spider for mapping application architecture, and a proxy for intercepting and altering HTTP/S traffic. Its intrusion detection technology uses automated assaults to find security flaws like XSS and SQL injection. For testing purposes, the repeater permits manual modification and resending of HTTP requests. Token and session identifier randomness is evaluated by the sequencer. A decoder aids in the decoding of different encoding systems. A comparer facilitates the identification of variations in replies or data. Burp Suite is a complete web application security testing tool that is popular among developers and security experts alike.
